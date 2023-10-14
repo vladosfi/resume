@@ -240,3 +240,21 @@ body{
     width: 45px;
     margin-right: 45px;
 }
+
+
+a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: black;
+  }
+  
+  a:visited {
+    color: purple;
+  }
