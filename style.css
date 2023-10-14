@@ -242,19 +242,20 @@ body{
 }
 
 
-a {
+a{
     color: white;
     text-decoration: none;
   }
   
-  a:hover {
+  a:hover{
     text-decoration: underline;
   }
   
-  a:active {
-    color: black;
+  a:active{
+    color: white;
   }
   
-  a:visited {
-    color: purple;
+  a:visited{
+    color: white;
   }
+
