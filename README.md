@@ -25,4 +25,4 @@ To view the resume, simply open this page: [GitHub Profile]([https://github.com/
 The resume is divided into two sections: the left section contains personal information and social links, while the right section displays a profile summary, work experience, education, skills, and hobbies.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [https://github.com/vladosfi/resume/blob/main/LICENSE](MIT License).
