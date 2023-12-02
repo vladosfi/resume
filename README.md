@@ -26,3 +26,6 @@ The resume is divided into two sections: the left section contains personal info
 
 ## License
 This project is licensed under the [https://github.com/vladosfi/resume/blob/main/LICENSE](MIT License).
+
+
+[GitHub Profile](https://github.com/vladosfi)
