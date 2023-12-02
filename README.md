@@ -19,13 +19,11 @@ Experienced Web Developer specializing in back-end development with a strong tra
 
 ## Getting Started
 
-To view the resume, simply open this page: [GitHub Profile]([https://github.com/vladosfi](https://vladosfi.github.io/resume)) in a web browser.
+To view the resume, simply open this page: [GitHub Profile](https://vladosfi.github.io/resume) in a web browser.
 
 ## Usage
 The resume is divided into two sections: the left section contains personal information and social links, while the right section displays a profile summary, work experience, education, skills, and hobbies.
 
 ## License
-This project is licensed under the [MIT License]([https://github.com/vladosfi](https://github.com/vladosfi/resume/blob/main/LICENSE)https://github.com/vladosfi/resume/blob/main/LICENSE).
-
-
+This project is licensed under the [MIT License](https://github.com/vladosfi/resume/blob/main/LICENSE).
 
